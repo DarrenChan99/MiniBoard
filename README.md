@@ -2,16 +2,20 @@
 A 3x3 macro pad with OLED display. 
 One idea to use this layout is to keep track of daily habits and track them to promote better productivity.
 
-Key Mapping: 
-[1-6]: Up to 6 individual habits that can be mapped
-[7 + 8]: Used to navigate across the individual habits and the consistancy overtime 
-[9]: Reset the board
+<h2> Key Mapping </h2>
 
-Why? 
-1. I wanted to learn electronics and pcb design
-2. Create a real world design that is functional
-3. Explore new enviroments like KiCad and Fusion 360
+<ul>
+<li>[1-6]: Up to 6 individual habits that can be mapped</li>
+<li>[7 + 8]: Used to navigate across the individual habits and the consistancy overtime </li>
+<li>[9]: Reset the board</li>
+</ul>
 
+<h2>Why?</h2>
+<ol>
+ <li>I wanted to learn electronics and pcb design</li>
+ <li>Create a real world design that is functional</li>
+ <li>Explore new enviroments like KiCad and Fusion 360</li>
+</ol>
 
 <h1> CAD </h1>
 <img width="634" height="685" alt="Screenshot 2026-03-20 at 11 16 19 PM" src="https://github.com/user-attachments/assets/36ef13b6-aecb-4bf6-9be7-3b6d578a00e5" />
