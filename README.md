@@ -36,17 +36,62 @@ One idea to use this layout is to keep track of daily habits and track them to p
  <li>Displaying and refreashing OLED</li>
 </ul>
 <h1> BOM </h1>
-<ul> 
- <li>9x Cherry MX Switches</li>
- <li>9x DSA Keycaps</li>
- <li>4x M3x5x4 Heatset inserts</li>
- <li>4x M3x16mm Screws</li>
- <li>1x 0.91" OLED Display</li>
- <li>1x Seeed Studio XIAO RP2040</li>
- <li>6x Through-hole 1N4148 Diodes</li>
- <li>1x 3D Printed Case(2 parts)</li>
- <li>1x Soldering Iron</li>
-</ul>
+<table>
+    <thead>
+        <tr>
+            <th>Component</th>
+            <th>Quantity</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Seeed Studio XIAO RP2040</td>
+            <td>1</td>
+            <td>Microcontroller board</td>
+        </tr>
+        <tr>
+            <td>Cherry MX Switches</td>
+            <td>9</td>
+            <td>Mechanical key switches</td>
+        </tr>
+        <tr>
+            <td>DSA Keycaps</td>
+            <td>9</td>
+            <td>Blank Keycaps</td>
+        </tr>
+        <tr>
+            <td>0.91" OLED Display</td>
+            <td>1</td>
+            <td>4 pin I2C display</td>
+        </tr>
+        <tr>
+            <td>1N4148 Diodes</td>
+            <td>6</td>
+            <td>Through-hole signal diodes</td>
+        </tr>
+        <tr>
+            <td>M3x5x4 Heatset Inserts</td>
+            <td>4</td>
+            <td>Threaded inserts for case assembly</td>
+        </tr>
+        <tr>
+            <td>M3x16mm Screws</td>
+            <td>4</td>
+            <td>Mounting case</td>
+        </tr>
+        <tr>
+            <td>3D Printed Case</td>
+            <td>1</td>
+            <td>2-part custom enclosure</td>
+        </tr>
+        <tr>
+            <td>Soldering Iron</td>
+            <td>1</td>
+            <td>Assembly tool</td>
+        </tr>
+    </tbody>
+</table>
 
 
 
