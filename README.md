@@ -30,7 +30,7 @@ One idea to use this layout is to keep track of daily habits and track them to p
 <img width="524" height="642" alt="Screenshot 2026-03-20 at 11 17 46 PM" src="https://github.com/user-attachments/assets/0dc0219e-4e2e-45ec-86f0-10739ec2348d" />
 
 <h1> Firmware </h1>
-<p> This macropad used <a href="https://qmk.fm/">QMK</a> firmware. </p>
+<p> This macropad used <a href="https://github.com/KMKfw/kmk_firmware">KMK</a> firmware with CircuitPython. </p>
 <ul> 
  <li>Used to implment button mapping</li>
  <li>Displaying and refreashing OLED</li>
