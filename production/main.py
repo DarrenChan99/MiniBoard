@@ -18,11 +18,11 @@ DIODE_ORIENTATION = DiodeOrientation.COL2ROW
 # ─────────────────────────────────────────────
 
 HABITS = [
-    {"name": "Study",    "url": "https://www.oneprep.xyz/\n"},  
-    {"name": "Focus",    "url": None},                          
-    {"name": "Exercise", "url": None},                          
-    {"name": "Read",     "url": None},                          
-    {"name": "Journal",  "url": None},                         
+    {"name": "SAT",    "url": "https://www.oneprep.xyz/\n"},  
+    {"name": "Read",    "url": None},                          
+    {"name": "Sleep", "url": None},                          
+    {"name": "Water",     "url": None},                          
+    {"name": "Good",  "url": None},                         
 ]
 
 # ─────────────────────────────────────────────
