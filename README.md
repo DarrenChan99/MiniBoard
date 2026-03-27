@@ -18,7 +18,7 @@ One idea to use this layout is to keep track of daily habits and track them to p
 </ol>
 
 <h1> CAD </h1>
-<img width="634" height="685" alt="Screenshot 2026-03-20 at 11 16 19 PM" src="https://github.com/user-attachments/assets/36ef13b6-aecb-4bf6-9be7-3b6d578a00e5" />
+<img width="537" height="620" alt="Screenshot 2026-03-27 at 9 02 03 AM" src="https://github.com/user-attachments/assets/e74f6e9b-0b29-48ae-88ef-312ec332bc38" />
 
 <h1> PCB </h1>
 <p>Made with KiCad</p>
